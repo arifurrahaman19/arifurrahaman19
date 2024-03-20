@@ -1,5 +1,5 @@
 ### Greetings!
-I bring a unique blend of expertise as a Mid-level Software Engineer with a rich background spanning four years of experience. My core skills lie in crafting web applications using JavaScript and various others languages. Proficient in creating seamless user interfaces, over the course of four years, I have hands-on experience with modern web frameworks like NextJS, ReactJS, JavaScript, NodeJS, ExpressJS, MongoDB.  Also, I've honed my skills in styling frameworks such as Tailwind, MaterialUI, etc.
+I bring a unique blend of expertise as a Mid-level Software Development Engineer with a rich background spanning four years of experience. My core skills lie in crafting web applications using JavaScript and various others languages. Proficient in creating seamless user interfaces, over the course of four years, I have hands-on experience with modern web frameworks like NextJS, ReactJS, JavaScript, NodeJS, ExpressJS, MongoDB.  Also, I've honed my skills in styling frameworks such as Tailwind, MaterialUI, etc.
 Beyond my technical proficiency, I excel in debugging, troubleshooting, and optimizing code for enhanced performance. With passion, I am dedicated to continuous learning.
 
 <!--
