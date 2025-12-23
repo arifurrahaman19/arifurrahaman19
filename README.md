@@ -1,18 +1,34 @@
-### Greetings!
-I bring a unique blend of expertise as a Mid-level Software Development Engineer with a rich background spanning four years of experience. My core skills lie in crafting web applications using JavaScript and various others languages. Proficient in creating seamless user interfaces, over the course of four years, I have hands-on experience with modern web frameworks like NextJS, ReactJS, JavaScript, NodeJS, ExpressJS, MongoDB.  Also, I've honed my skills in styling frameworks such as Tailwind, MaterialUI, etc.
-Beyond my technical proficiency, I excel in debugging, troubleshooting, and optimizing code for enhanced performance. With passion, I am dedicated to continuous learning.
+## 👋 Hi, I'm Arifur Rahaman
 
-<!--
-**arifurrahaman19/arifurrahaman19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend / Full-Stack JavaScript Developer** with **5+ years of experience** building scalable web applications using **React, Next.js, Node.js, and MongoDB**.
 
-Here are some ideas to get you started:
+I specialize in turning **Figma designs into production-ready applications**, building **SaaS platforms**, dashboards, and high-performance web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack
+- **Frontend:** React.js, Next.js, TypeScript, Redux, Tailwind CSS, MUI, Ant Design  
+- **Backend:** Node.js, Express.js, NestJS, MongoDB, REST APIs, GraphQL  
+- **Auth & Payments:** JWT, Firebase, Stripe  
+- **DevOps:** Nginx, DigitalOcean, AWS S3, CI/CD  
+- **Tools:** Git, GitHub, Github Actions, Postman, Figma
+
+---
+
+### 💼 Professional Focus
+- Building scalable frontend architectures
+- Converting Figma designs into production-ready UI
+- Developing secure and maintainable APIs
+- Improving performance, code quality, and developer experience
+- Working with cross-functional teams in agile environments
+
+---
+
+### 🌐 Connect With Me
+- 🌍 Website: https://arifur.me
+- 💼 LinkedIn: https://www.linkedin.com/in/arifur561
+- 📧 Email: dpt.arif03@gmail.com
+
+---
+
+⭐ *I love building clean, scalable, and user-friendly applications.*
