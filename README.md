@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Arifur Rahaman
 
-🚀 **Frontend / Full-Stack JavaScript Developer** with **5+ years of experience** developing scalable web applications using **React, Next.js, Node.js, and MongoDB**.
+🚀 **Frontend / Full-Stack JavaScript Developer** with **6+ years of experience** developing scalable web applications using **React, Next.js, Node.js, and MongoDB**.
 
 I specialize in turning **Figma designs into production-ready applications**, delivering **SaaS platforms**, dashboards, and high-performance web experiences.
 
